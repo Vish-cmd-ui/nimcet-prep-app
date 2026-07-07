@@ -85,7 +85,7 @@ export async function POST(req: Request) {
     }
 
     const supabase = await createClient();
-    const { error } = await supabase.from('questions').insert(parsedQuestions);
+    const { error } = await supabase.from('questions').insert(parsedQuestions as any[]);
 
     if (error) {
       return NextResponse.json({ error: error.message }, { status: 500 });
