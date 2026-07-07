@@ -1,0 +1,32 @@
+[2026-07-07T04:27:07.659Z] ╔══════════════════════════════════════════════════════╗
+[2026-07-07T04:27:07.660Z] ║      NIMCET PYQ Processor  ·  Gemini 2.5 Flash      ║
+[2026-07-07T04:27:07.660Z] ╚══════════════════════════════════════════════════════╝
+[2026-07-07T04:27:07.660Z] Years : 2020, 2021, 2022, 2023
+[2026-07-07T04:27:07.660Z] Model : gemini-2.5-flash
+[2026-07-07T04:27:07.660Z] Chunks: 30 per year  |  Delay: 6500ms
+[2026-07-07T04:27:07.660Z] Mode  : 🟢 LIVE
+[2026-07-07T04:27:07.660Z] Log   : /Users/vishwas/Documents/NIMCET APP/nimcet-prep-app/scripts/logs/run-2026-07-07T04-27-07.log
+[2026-07-07T04:27:07.660Z] 
+📡 Fetching topic taxonomy...
+[2026-07-07T04:27:08.982Z]    Loaded 38 topics ✅
+[2026-07-07T04:27:08.983Z] 📌 Resuming — 6 chunks already complete
+[2026-07-07T04:27:08.983Z] 
+══════════════════════════════════════════════════════════
+[2026-07-07T04:27:08.983Z] 📄  NIMCET 2020  |  file: 2020.pdf
+[2026-07-07T04:27:08.984Z] ══════════════════════════════════════════════════════════
+[2026-07-07T04:27:09.115Z]    Pages: 18  |  Characters: 33,230
+[2026-07-07T04:27:09.115Z]    Actual chunks: 30
+[2026-07-07T04:27:40.144Z]   ❌ Giving up on chunk: Unexpected end of JSON input
+[2026-07-07T04:28:19.182Z]   ❌ Giving up on chunk: Unterminated string in JSON at position 4186 (line 3 column 4181)
+[2026-07-07T04:29:00.978Z]   ❌ Giving up on chunk: Unterminated string in JSON at position 641 (line 24 column 50)
+[2026-07-07T04:29:37.342Z]   ⚠ Insert error: {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'exam_name' column of 'questions' in the sch
+[2026-07-07T04:29:37.504Z]   ⚠ Insert error: {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'exam_name' column of 'questions' in the sch
+[2026-07-07T04:29:37.932Z]   ⚠ Insert error: {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'exam_name' column of 'questions' in the sch
+[2026-07-07T04:30:05.009Z]   ⚠ Insert error: {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'exam_name' column of 'questions' in the sch
+[2026-07-07T04:30:05.439Z]   ⚠ Insert error: {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'exam_name' column of 'questions' in the sch
+[2026-07-07T04:30:05.606Z]   ⚠ Insert error: {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'exam_name' column of 'questions' in the sch
+[2026-07-07T04:30:05.767Z]   ⚠ Insert error: {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'exam_name' column of 'questions' in the sch
+[2026-07-07T04:30:31.829Z]   ⚠ Insert error: {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'exam_name' column of 'questions' in the sch
+[2026-07-07T04:30:31.992Z]   ⚠ Insert error: {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'exam_name' column of 'questions' in the sch
+[2026-07-07T04:30:32.152Z]   ⚠ Insert error: {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'exam_name' column of 'questions' in the sch
+[2026-07-07T04:30:32.316Z]   ⚠ Insert error: {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'exam_name' column of 'questions' in the sch

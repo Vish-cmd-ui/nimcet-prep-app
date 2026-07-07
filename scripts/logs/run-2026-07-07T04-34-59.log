@@ -1,0 +1,24 @@
+[2026-07-07T04:34:59.778Z] ╔══════════════════════════════════════════════════════╗
+[2026-07-07T04:34:59.778Z] ║      NIMCET PYQ Processor  ·  Gemini 2.5 Flash      ║
+[2026-07-07T04:34:59.778Z] ╚══════════════════════════════════════════════════════╝
+[2026-07-07T04:34:59.778Z] Years : 2024
+[2026-07-07T04:34:59.779Z] Model : gemini-2.5-flash
+[2026-07-07T04:34:59.779Z] Chunks: 30 per year  |  Delay: 6500ms
+[2026-07-07T04:34:59.779Z] Mode  : 🟢 LIVE
+[2026-07-07T04:34:59.779Z] Log   : /Users/vishwas/Documents/NIMCET APP/nimcet-prep-app/scripts/logs/run-2026-07-07T04-34-59.log
+[2026-07-07T04:34:59.779Z] 
+📡 Fetching topic taxonomy...
+[2026-07-07T04:35:00.138Z]    Loaded 38 topics ✅
+[2026-07-07T04:35:00.139Z] 📌 Resuming — 13 chunks already complete
+[2026-07-07T04:35:00.139Z] 
+══════════════════════════════════════════════════════════
+[2026-07-07T04:35:00.139Z] 📄  NIMCET 2024  |  file: 2024.pdf
+[2026-07-07T04:35:00.139Z] ══════════════════════════════════════════════════════════
+[2026-07-07T04:35:00.307Z]    Pages: 15  |  Characters: 31,472
+[2026-07-07T04:35:00.307Z]    Actual chunks: 30
+[2026-07-07T04:35:00.697Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T04:35:35.940Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T04:36:11.345Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T04:36:46.579Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T04:37:22.356Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T04:37:29.167Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)

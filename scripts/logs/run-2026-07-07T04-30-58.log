@@ -1,0 +1,275 @@
+[2026-07-07T04:30:58.328Z] ╔══════════════════════════════════════════════════════╗
+[2026-07-07T04:30:58.328Z] ║      NIMCET PYQ Processor  ·  Gemini 2.5 Flash      ║
+[2026-07-07T04:30:58.328Z] ╚══════════════════════════════════════════════════════╝
+[2026-07-07T04:30:58.328Z] Years : 2020, 2021, 2022, 2023
+[2026-07-07T04:30:58.329Z] Model : gemini-2.5-flash
+[2026-07-07T04:30:58.329Z] Chunks: 30 per year  |  Delay: 6500ms
+[2026-07-07T04:30:58.329Z] Mode  : 🟢 LIVE
+[2026-07-07T04:30:58.329Z] Log   : /Users/vishwas/Documents/NIMCET APP/nimcet-prep-app/scripts/logs/run-2026-07-07T04-30-58.log
+[2026-07-07T04:30:58.329Z] 
+📡 Fetching topic taxonomy...
+[2026-07-07T04:30:58.584Z]    Loaded 38 topics ✅
+[2026-07-07T04:30:58.585Z] 📌 Resuming — 7 chunks already complete
+[2026-07-07T04:30:58.585Z] 
+══════════════════════════════════════════════════════════
+[2026-07-07T04:30:58.585Z] 📄  NIMCET 2020  |  file: 2020.pdf
+[2026-07-07T04:30:58.585Z] ══════════════════════════════════════════════════════════
+[2026-07-07T04:30:58.728Z]    Pages: 18  |  Characters: 33,230
+[2026-07-07T04:30:58.728Z]    Actual chunks: 30
+[2026-07-07T04:32:05.794Z]   ❌ Giving up on chunk: Unexpected end of JSON input
+[2026-07-07T04:32:46.645Z]   ❌ Giving up on chunk: Unterminated string in JSON at position 749 (line 24 column 32)
+[2026-07-07T04:34:15.969Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T04:34:51.227Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T04:35:50.052Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T04:36:25.317Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T04:37:00.714Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T04:37:35.996Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T04:38:11.279Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T04:38:18.222Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T04:38:53.567Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T04:39:29.145Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T04:40:04.628Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T04:40:40.026Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T04:40:46.924Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T04:41:22.490Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T04:41:58.221Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T04:42:33.580Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T04:43:09.185Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T04:43:16.075Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T04:43:51.471Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T04:44:26.934Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T04:45:02.221Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T04:45:37.600Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T04:45:44.377Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T04:46:19.610Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T04:46:54.863Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T04:47:30.281Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T04:48:05.752Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T04:48:12.715Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T04:48:47.944Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T04:49:23.178Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T04:49:58.543Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T04:50:34.182Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T04:50:41.003Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T04:51:16.497Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T04:51:52.119Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T04:52:27.359Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T04:53:02.820Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T04:53:09.541Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T04:53:44.758Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T04:54:20.334Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T04:54:55.775Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T04:55:30.997Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T04:55:37.905Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T04:56:13.524Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T04:56:49.001Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T04:57:24.666Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T04:58:00.119Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T04:58:06.867Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T04:58:42.135Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T04:59:17.755Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T04:59:53.222Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:00:28.675Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:00:35.427Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:01:10.679Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:01:45.994Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:02:21.249Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:02:56.721Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:03:03.474Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:03:38.925Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:04:14.579Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:04:50.051Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:05:25.538Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:05:32.242Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:06:07.653Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:06:43.131Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:07:18.373Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:07:53.595Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:08:00.331Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:08:35.784Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:09:11.047Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:09:46.321Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:10:21.974Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:10:28.710Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:11:04.142Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:11:39.593Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:12:14.820Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:12:50.229Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:12:57.179Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:13:32.442Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:14:07.960Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:14:43.436Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:15:19.042Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:15:19.045Z] 
+   ✅ Year 2020 done — Extracted: 17  Inserted: 17
+[2026-07-07T05:15:19.045Z] 
+⏸  Pausing 10s between years...
+[2026-07-07T05:15:29.046Z] 
+══════════════════════════════════════════════════════════
+[2026-07-07T05:15:29.047Z] 📄  NIMCET 2021  |  file: 2021.pdf
+[2026-07-07T05:15:29.047Z] ══════════════════════════════════════════════════════════
+[2026-07-07T05:15:29.149Z]    Pages: 20  |  Characters: 44,892
+[2026-07-07T05:15:29.149Z]    Actual chunks: 30
+[2026-07-07T05:15:29.382Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:16:04.634Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:16:40.122Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:17:15.574Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:17:51.042Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:18:01.166Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:18:36.399Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:19:11.804Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:19:47.260Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:20:22.718Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:20:29.451Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:21:04.684Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:21:39.911Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:22:15.170Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:22:50.648Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:22:57.622Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:23:32.856Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:24:08.318Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:24:43.545Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:25:19.009Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:25:25.792Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:26:01.252Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:26:36.720Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:27:11.963Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:27:47.491Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:27:54.243Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:28:29.481Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:29:04.937Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:29:40.424Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:30:15.660Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:30:22.384Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:30:57.626Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:31:33.013Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:32:08.273Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:32:45.891Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:32:52.767Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:33:28.230Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:34:03.489Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:34:38.721Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:35:14.217Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:35:20.960Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:35:56.238Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:36:31.701Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:37:07.155Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:37:42.429Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:37:49.389Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:38:24.657Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:39:00.102Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:39:35.551Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:40:11.029Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:40:17.992Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:40:53.288Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:41:28.624Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:42:03.918Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:42:39.175Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:42:45.899Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:43:21.153Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:43:56.617Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:44:32.072Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:45:07.531Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:45:14.263Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:45:49.494Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:46:24.941Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:47:00.197Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:47:35.637Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:47:42.384Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:48:17.608Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:48:53.074Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:49:28.329Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:50:04.026Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:50:10.757Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:50:46.003Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:51:21.459Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:51:56.681Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:52:31.915Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:52:38.872Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:53:14.130Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:53:49.566Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:54:25.200Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:55:00.659Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:55:07.405Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:55:42.654Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:56:17.910Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:56:53.381Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:57:28.806Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T05:57:35.559Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T05:58:10.809Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T05:58:46.036Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T05:59:21.502Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T05:59:56.733Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T06:00:03.789Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T06:00:39.060Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T06:01:14.515Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T06:01:49.778Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T06:02:25.058Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T06:02:31.985Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T06:03:07.251Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T06:03:42.684Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T06:04:18.131Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T06:04:53.576Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T06:05:00.301Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T06:05:35.536Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T06:06:10.994Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T06:06:46.247Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T06:07:21.551Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T06:07:28.517Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T06:08:06.681Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T06:08:42.130Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T06:09:17.582Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T06:09:52.904Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T06:09:59.627Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T06:10:35.099Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T06:11:10.347Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T06:11:45.590Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T06:12:21.040Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T06:12:27.787Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T06:13:03.249Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T06:13:38.702Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T06:14:14.334Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T06:14:49.804Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T06:14:56.534Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T06:15:31.989Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T06:16:07.288Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T06:16:42.737Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T06:17:17.961Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T06:17:24.914Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T06:18:00.149Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T06:18:35.577Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T06:19:11.038Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T06:19:46.261Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T06:19:53.054Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T06:20:28.477Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T06:21:03.720Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T06:21:39.184Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T06:22:14.398Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T06:22:21.138Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T06:22:56.602Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T06:23:32.139Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T06:24:08.208Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T06:24:43.435Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T06:24:50.389Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T06:25:25.637Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T06:26:01.127Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T06:26:36.781Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T06:27:12.038Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T06:27:18.760Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T06:27:54.221Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T06:28:29.661Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)
+[2026-07-07T06:29:05.222Z]   ⏳ Rate-limited — waiting 35s (retry 4/4)
+[2026-07-07T06:29:40.676Z]   ❌ Giving up on chunk: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more in
+[2026-07-07T06:29:40.678Z] 
+   ✅ Year 2021 done — Extracted: 0  Inserted: 0
+[2026-07-07T06:29:40.678Z] 
+⏸  Pausing 10s between years...
+[2026-07-07T06:29:50.681Z] 
+══════════════════════════════════════════════════════════
+[2026-07-07T06:29:50.683Z] 📄  NIMCET 2022  |  file: 2022.pdf
+[2026-07-07T06:29:50.684Z] ══════════════════════════════════════════════════════════
+[2026-07-07T06:29:50.790Z]    Pages: 17  |  Characters: 34,099
+[2026-07-07T06:29:50.790Z]    Actual chunks: 30
+[2026-07-07T06:29:51.019Z]   ⏳ Rate-limited — waiting 35s (retry 1/4)
+[2026-07-07T06:30:26.274Z]   ⏳ Rate-limited — waiting 35s (retry 2/4)
+[2026-07-07T06:31:01.513Z]   ⏳ Rate-limited — waiting 35s (retry 3/4)

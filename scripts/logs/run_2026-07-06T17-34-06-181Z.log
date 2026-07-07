@@ -1,0 +1,39 @@
+[2026-07-06T17:34:06.184Z] 🚀 NIMCET PYQ Processor starting...
+[2026-07-06T17:34:06.185Z]    Years to process: 2020
+[2026-07-06T17:34:06.185Z]    Chunks per year:  30
+[2026-07-06T17:34:06.185Z]    Delay between chunks: 4500ms
+[2026-07-06T17:34:06.185Z]    Dry run: true
+[2026-07-06T17:34:06.185Z] 
+📡 Fetching topic taxonomy from Supabase...
+[2026-07-06T17:34:06.659Z]    ✅ Loaded 38 topics
+[2026-07-06T17:34:06.660Z] 
+════════════════════════════════════════════════════════════
+[2026-07-06T17:34:06.661Z] 📄 Processing NIMCET 2020 — 30 chunks
+[2026-07-06T17:34:06.661Z] ════════════════════════════════════════════════════════════
+[2026-07-06T17:34:06.661Z]    PDF loaded (162.7 KB)
+[2026-07-06T17:34:06.662Z]    🔄 Chunk 1/30 — Q1–4
+[2026-07-06T17:34:07.061Z]   ⚠️  API error 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of av — retrying...
+[2026-07-06T17:34:37.446Z]   ⚠️  API error 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of av — retrying...
+[2026-07-06T17:35:08.067Z]   ⚠️  API error 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of av — retrying...
+[2026-07-06T17:35:38.462Z]       ❌ Chunk 1 failed: Gemini API error 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-07-06T17:35:42.966Z]    🔄 Chunk 2/30 — Q5–8
+[2026-07-06T17:35:43.345Z]   ⚠️  API error 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of av — retrying...

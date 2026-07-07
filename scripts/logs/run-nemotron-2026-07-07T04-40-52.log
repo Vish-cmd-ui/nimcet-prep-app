@@ -1,0 +1,37 @@
+[2026-07-07T04:40:52.357Z] ╔══════════════════════════════════════════════════════╗
+[2026-07-07T04:40:52.357Z] ║    NIMCET PYQ Processor  ·  NVIDIA (Llama 3.1 70B)  ║
+[2026-07-07T04:40:52.357Z] ╚══════════════════════════════════════════════════════╝
+[2026-07-07T04:40:52.357Z] Years : 2020, 2021, 2022, 2023
+[2026-07-07T04:40:52.358Z] Model : meta/llama-3.1-70b-instruct
+[2026-07-07T04:40:52.358Z] Chunks: 30 per year  |  Delay: 3500ms
+[2026-07-07T04:40:52.358Z] Mode  : 🟢 LIVE
+[2026-07-07T04:40:52.358Z] Log   : /Users/vishwas/Documents/NIMCET APP/nimcet-prep-app/scripts/logs/run-nemotron-2026-07-07T04-40-52.log
+[2026-07-07T04:40:52.358Z] 
+📡 Fetching topic taxonomy...
+[2026-07-07T04:40:53.117Z]    Loaded 38 topics ✅
+[2026-07-07T04:40:53.118Z] 📌 Resuming — 16 chunks already complete
+[2026-07-07T04:40:53.119Z] 
+══════════════════════════════════════════════════════════
+[2026-07-07T04:40:53.119Z] 📄  NIMCET 2020  |  file: 2020.pdf
+[2026-07-07T04:40:53.119Z] ══════════════════════════════════════════════════════════
+[2026-07-07T04:40:53.271Z]    Pages: 18  |  Characters: 33,230
+[2026-07-07T04:40:53.271Z]    Actual chunks: 30
+[2026-07-07T04:43:21.742Z]   ⏳ Timeout after 90s — waiting 5s (retry 1/4)
+[2026-07-07T04:45:18.449Z]   ⏳ Timeout after 90s — waiting 5s (retry 1/4)
+[2026-07-07T04:51:16.739Z]   ⏳ Timeout after 90s — waiting 5s (retry 1/4)
+[2026-07-07T04:52:51.756Z]   ⏳ Timeout after 90s — waiting 5s (retry 2/4)
+[2026-07-07T04:55:56.338Z] 
+   ✅ Year 2020 done — Extracted: 49  Inserted: 49
+[2026-07-07T04:55:56.339Z] 
+⏸  Pausing 10s between years...
+[2026-07-07T04:56:06.341Z] 
+══════════════════════════════════════════════════════════
+[2026-07-07T04:56:06.342Z] 📄  NIMCET 2021  |  file: 2021.pdf
+[2026-07-07T04:56:06.343Z] ══════════════════════════════════════════════════════════
+[2026-07-07T04:56:06.518Z]    Pages: 20  |  Characters: 44,892
+[2026-07-07T04:56:06.518Z]    Actual chunks: 30
+[2026-07-07T04:59:09.316Z]   ⏳ Timeout after 90s — waiting 5s (retry 1/4)
+[2026-07-07T05:00:44.320Z]   ⏳ Timeout after 90s — waiting 5s (retry 2/4)
+[2026-07-07T05:02:19.324Z]   ⏳ Timeout after 90s — waiting 5s (retry 3/4)
+[2026-07-07T05:03:54.328Z]   ⏳ Timeout after 90s — waiting 5s (retry 4/4)
+[2026-07-07T05:05:29.336Z]   ❌ Giving up on chunk: This operation was aborted

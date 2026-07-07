@@ -1,0 +1,20 @@
+[2026-07-06T17:38:49.774Z] ╔══════════════════════════════════════════════════════╗
+[2026-07-06T17:38:49.775Z] ║      NIMCET PYQ Processor  ·  Gemini 2.5 Flash      ║
+[2026-07-06T17:38:49.775Z] ╚══════════════════════════════════════════════════════╝
+[2026-07-06T17:38:49.775Z] Years : 2020, 2021, 2022, 2023
+[2026-07-06T17:38:49.775Z] Model : gemini-2.5-flash
+[2026-07-06T17:38:49.775Z] Chunks: 30 per year  |  Delay: 6500ms
+[2026-07-06T17:38:49.775Z] Mode  : 🟢 LIVE
+[2026-07-06T17:38:49.775Z] Log   : /Users/vishwas/Documents/NIMCET APP/nimcet-prep-app/scripts/logs/run-2026-07-06T17-38-49.log
+[2026-07-06T17:38:49.775Z] 
+📡 Fetching topic taxonomy...
+[2026-07-06T17:38:50.248Z]    Loaded 38 topics ✅
+[2026-07-06T17:38:50.249Z] 📌 Resuming — 4 chunks already complete
+[2026-07-06T17:38:50.250Z] 
+══════════════════════════════════════════════════════════
+[2026-07-06T17:38:50.250Z] 📄  NIMCET 2020  |  file: 2020.pdf
+[2026-07-06T17:38:50.250Z] ══════════════════════════════════════════════════════════
+[2026-07-06T17:38:50.411Z]    Pages: 18  |  Characters: 33,230
+[2026-07-06T17:38:50.412Z]    Actual chunks: 30
+[2026-07-06T17:39:25.289Z]   ❌ Giving up on chunk: Unterminated string in JSON at position 642 (line 27 column 38)
+[2026-07-06T17:40:03.923Z]   ❌ Giving up on chunk: Unterminated string in JSON at position 657 (line 22 column 13)

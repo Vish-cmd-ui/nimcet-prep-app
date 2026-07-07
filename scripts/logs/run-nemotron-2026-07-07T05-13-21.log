@@ -1,0 +1,337 @@
+[2026-07-07T05:13:21.318Z] ╔══════════════════════════════════════════════════════╗
+[2026-07-07T05:13:21.318Z] ║    NIMCET PYQ Processor  ·  NVIDIA (Llama 3.1 70B)  ║
+[2026-07-07T05:13:21.319Z] ╚══════════════════════════════════════════════════════╝
+[2026-07-07T05:13:21.319Z] Years : 2020, 2021, 2022, 2023
+[2026-07-07T05:13:21.319Z] Model : meta/llama-3.1-70b-instruct
+[2026-07-07T05:13:21.319Z] Chunks: 30 per year  |  Delay: 3500ms
+[2026-07-07T05:13:21.319Z] Mode  : 🟢 LIVE
+[2026-07-07T05:13:21.319Z] Log   : /Users/vishwas/Documents/NIMCET APP/nimcet-prep-app/scripts/logs/run-nemotron-2026-07-07T05-13-21.log
+[2026-07-07T05:13:21.319Z] 
+📡 Fetching topic taxonomy...
+[2026-07-07T05:13:22.227Z]    Loaded 38 topics ✅
+[2026-07-07T05:13:22.227Z] 📌 Resuming — 29 chunks already complete
+[2026-07-07T05:13:22.228Z] 
+══════════════════════════════════════════════════════════
+[2026-07-07T05:13:22.228Z] 📄  NIMCET 2020  |  file: 2020.pdf
+[2026-07-07T05:13:22.228Z] ══════════════════════════════════════════════════════════
+[2026-07-07T05:13:22.392Z]    Pages: 18  |  Characters: 33,230
+[2026-07-07T05:13:22.393Z]    Actual chunks: 30
+[2026-07-07T05:13:27.417Z] 
+   ✅ Year 2020 done — Extracted: 1  Inserted: 1
+[2026-07-07T05:13:27.417Z] 
+⏸  Pausing 10s between years...
+[2026-07-07T05:13:37.420Z] 
+══════════════════════════════════════════════════════════
+[2026-07-07T05:13:37.421Z] 📄  NIMCET 2021  |  file: 2021.pdf
+[2026-07-07T05:13:37.421Z] ══════════════════════════════════════════════════════════
+[2026-07-07T05:13:37.512Z]    Pages: 20  |  Characters: 44,892
+[2026-07-07T05:13:37.512Z]    Actual chunks: 30
+[2026-07-07T05:16:25.722Z]   ⏳ Timeout after 90s — waiting 5s (retry 1/4)
+[2026-07-07T05:20:04.742Z]   ⏳ Timeout after 90s — waiting 5s (retry 1/4)
+[2026-07-07T05:21:39.746Z]   ⏳ Timeout after 90s — waiting 5s (retry 2/4)
+[2026-07-07T05:28:08.276Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:28:08.426Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:28:08.579Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:28:08.730Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:28:08.879Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:28:09.043Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:28:35.641Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:28:35.790Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:28:35.940Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:28:36.092Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:29:14.687Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:29:14.835Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:29:14.985Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:29:15.137Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:29:15.286Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:29:15.439Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:29:15.589Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:29:59.357Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:29:59.506Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:29:59.658Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:29:59.813Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:29:59.968Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:30:00.118Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:30:00.267Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:30:54.973Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:30:55.126Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:30:55.281Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:30:55.436Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:30:55.588Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:31:16.017Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:31:19.572Z]   ⏳ Rate-limited (429) — waiting 15s (retry 1/4)
+[2026-07-07T05:32:04.025Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:32:04.176Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:32:04.326Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:33:57.084Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:33:57.250Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:33:57.398Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:33:57.562Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:33:57.716Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:33:57.866Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:34:13.685Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:34:17.230Z]   ⏳ Rate-limited (429) — waiting 15s (retry 1/4)
+[2026-07-07T05:35:48.247Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:35:48.397Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:35:58.420Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:36:14.610Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:36:22.344Z]   ⏳ Rate-limited (429) — waiting 15s (retry 1/4)
+[2026-07-07T05:37:09.556Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:37:09.751Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:37:09.951Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:38:14.783Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:38:14.946Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:38:15.099Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:38:15.250Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:38:15.411Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:38:15.589Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:38:15.747Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:38:15.901Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:38:16.048Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:38:16.049Z] 
+   ✅ Year 2021 done — Extracted: 122  Inserted: 66
+[2026-07-07T05:38:16.050Z] 
+⏸  Pausing 10s between years...
+[2026-07-07T05:38:26.052Z] 
+══════════════════════════════════════════════════════════
+[2026-07-07T05:38:26.053Z] 📄  NIMCET 2022  |  file: 2022.pdf
+[2026-07-07T05:38:26.053Z] ══════════════════════════════════════════════════════════
+[2026-07-07T05:38:26.168Z]    Pages: 17  |  Characters: 34,099
+[2026-07-07T05:38:26.169Z]    Actual chunks: 30
+[2026-07-07T05:39:48.894Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:39:49.070Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:39:49.222Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:39:49.375Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:39:49.529Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:39:49.685Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:39:49.835Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:41:23.352Z]   ⏳ Timeout after 90s — waiting 5s (retry 1/4)
+[2026-07-07T05:42:37.695Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:42:37.843Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:42:37.999Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:42:38.157Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:42:38.304Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:42:38.460Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:42:38.608Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:42:38.759Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:43:48.442Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:43:48.593Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:43:48.740Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:43:48.890Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:43:49.041Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:43:49.193Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:44:59.006Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:44:59.158Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:44:59.307Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:44:59.460Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:46:32.966Z]   ⏳ Timeout after 90s — waiting 5s (retry 1/4)
+[2026-07-07T05:47:21.577Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:47:21.730Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:47:21.885Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:47:22.041Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:47:22.196Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:47:22.358Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:48:55.865Z]   ⏳ Timeout after 90s — waiting 5s (retry 1/4)
+[2026-07-07T05:49:58.190Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:49:58.338Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:49:58.491Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:49:58.643Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:49:58.806Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:49:58.960Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:50:34.545Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:50:34.698Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:50:34.852Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:50:35.005Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:50:35.157Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:50:35.308Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:51:54.012Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:51:54.160Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:51:54.313Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:51:54.467Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:51:54.621Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:51:54.772Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:52:34.774Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:52:34.927Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:52:35.080Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:52:35.229Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:52:35.732Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:52:35.887Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:54:04.188Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:54:04.340Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:54:04.493Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:54:04.648Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:54:04.798Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:54:04.975Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:54:05.143Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:54:46.062Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:54:46.212Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:54:46.369Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:54:46.525Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:54:46.679Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:55:21.471Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:55:21.620Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:55:21.771Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:55:42.989Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:55:43.139Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:56:40.639Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:56:40.793Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:56:40.950Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:56:41.106Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:56:56.627Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:56:56.779Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:57:39.813Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:57:39.966Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:57:40.134Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:57:48.299Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:58:06.552Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:58:06.706Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:58:06.865Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:58:30.278Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:58:30.445Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:58:30.600Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:59:08.923Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:59:09.077Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:59:09.231Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:59:09.383Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:59:09.535Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:59:09.687Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T05:59:09.836Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:00:43.340Z]   ⏳ Timeout after 90s — waiting 5s (retry 1/4)
+[2026-07-07T06:01:37.769Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:01:37.924Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:01:38.079Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:01:38.231Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:01:38.385Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:01:38.538Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:01:38.688Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:01:38.840Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:02:27.819Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:02:27.976Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:02:28.144Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:02:28.298Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:02:28.452Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:02:28.603Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:03:10.040Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:03:32.848Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:04:21.181Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:04:21.333Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:04:21.498Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:04:21.654Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:04:21.805Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:05:29.992Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:05:30.144Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:05:30.293Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:05:30.468Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:05:30.621Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:05:30.777Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:05:44.771Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:05:44.772Z] 
+   ✅ Year 2022 done — Extracted: 123  Inserted: 0
+[2026-07-07T06:05:44.772Z] 
+⏸  Pausing 10s between years...
+[2026-07-07T06:05:54.774Z] 
+══════════════════════════════════════════════════════════
+[2026-07-07T06:05:54.775Z] 📄  NIMCET 2023  |  file: 2023.pdf
+[2026-07-07T06:05:54.775Z] ══════════════════════════════════════════════════════════
+[2026-07-07T06:05:54.899Z]    Pages: 34  |  Characters: 51,857
+[2026-07-07T06:05:54.900Z]    Actual chunks: 30
+[2026-07-07T06:06:35.139Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:06:35.290Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:06:51.436Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:06:51.628Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:07:23.945Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:07:24.133Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:07:24.291Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:07:24.467Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:07:28.078Z]   ⏳ Rate-limited (429) — waiting 15s (retry 1/4)
+[2026-07-07T06:08:49.970Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:08:50.130Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:09:44.499Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:09:44.649Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:09:44.819Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:10:20.177Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:10:20.333Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:10:44.662Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:10:44.822Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:10:44.978Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:12:18.493Z]   ⏳ Timeout after 90s — waiting 5s (retry 1/4)
+[2026-07-07T06:12:40.751Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:12:40.900Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:12:41.056Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:12:41.208Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:13:18.209Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:13:18.359Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:13:18.513Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:13:18.667Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:13:57.515Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:13:57.673Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:13:57.827Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:13:57.980Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:15:24.202Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:15:24.364Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:15:24.518Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:15:24.671Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:16:06.851Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:16:07.003Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:16:21.330Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:16:21.482Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:16:49.420Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:16:49.568Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:16:49.722Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:16:49.874Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:16:53.476Z]   ⏳ Rate-limited (429) — waiting 15s (retry 1/4)
+[2026-07-07T06:17:08.591Z]   ⏳ Rate-limited (429) — waiting 15s (retry 2/4)
+[2026-07-07T06:18:02.795Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:18:02.963Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:18:03.123Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:18:03.281Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:18:29.548Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:18:29.702Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:18:29.857Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:18:57.255Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:18:57.407Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:18:57.562Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:19:49.295Z]   ⚠ Error "Bad escaped character in JSON at position 26 (line 2 column 25)" — retrying in 5s
+[2026-07-07T06:21:24.302Z]   ⏳ Timeout after 90s — waiting 5s (retry 2/4)
+[2026-07-07T06:22:03.869Z]   ⚠ Error "Bad escaped character in JSON at position 26 (line 2 column 25)" — retrying in 5s
+[2026-07-07T06:22:08.980Z]   ⏳ Rate-limited (429) — waiting 15s (retry 4/4)
+[2026-07-07T06:23:42.882Z]   ❌ Giving up on chunk: Bad escaped character in JSON at position 26 (line 2 column 25)
+[2026-07-07T06:24:55.719Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:24:55.874Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:24:56.026Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:24:56.183Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:24:56.341Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:24:56.495Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:24:56.648Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:24:56.801Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:26:26.941Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:26:27.173Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:26:27.355Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:26:27.530Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:26:27.725Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:26:27.906Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:28:01.397Z]   ⏳ Timeout after 90s — waiting 5s (retry 1/4)
+[2026-07-07T06:28:47.268Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:28:47.420Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:28:47.575Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:28:47.764Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:28:47.918Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:28:48.085Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:28:48.234Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:29:29.325Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:29:29.474Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:29:29.624Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:29:29.786Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:29:29.940Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:29:30.093Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:29:51.478Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:29:51.631Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:29:51.788Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:30:36.863Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:30:37.019Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:30:37.194Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:30:37.354Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:30:37.515Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:30:37.675Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:30:37.829Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
+[2026-07-07T06:30:37.984Z]   ⚠ Insert error: {"code":"42501","details":null,"hint":null,"message":"new row violates row-level security policy for table \"questions\"
