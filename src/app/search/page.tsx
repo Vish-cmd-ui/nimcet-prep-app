@@ -14,7 +14,7 @@ export default async function SearchPage({
   const query = searchParams?.q || '';
   const supabase = await createClient();
 
-  let questions = [];
+  let questions: any[] = [];
   
   if (query.trim()) {
     // Basic text search on the 'text' column
