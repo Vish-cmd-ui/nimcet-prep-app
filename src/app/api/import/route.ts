@@ -63,6 +63,8 @@ function parseRawText(text: string) {
         options,
         correct_option,
         explanation: explanation || null,
+        difficulty: null,
+        pyq_year: null,
         source: 'pyq'
       });
     }
